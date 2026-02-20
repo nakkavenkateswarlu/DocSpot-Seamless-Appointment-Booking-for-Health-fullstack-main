@@ -1,2 +1,2 @@
 # DocSpot-Seamless-Appointment-Booking-for-Health-fullstack-main
-**GitHub Description (≤ 340 characters):**  Full Stack Developer (MERN Stack) Internship Program covering HTML, CSS, JavaScript (ES6), React.js, Node.js, Express.js, and MongoDB. Includes guided projects, GitHub collaboration, Kanban tracking, REST APIs, authentication, and full frontend-backend integration with hands-on learning and mentor review.
+**GitHub Description (≤ 340 characters):**  Full Stack Developer (MERN Stack) Internship Program covering HTML, CSS, JavaScript (ES6), React.js, Node.js, Express.js, and MongoDB. Includes guided projects, GitHub collaboration, Kanban tracking, REST APIs, authentication, and full frontend-backend integration with hand
